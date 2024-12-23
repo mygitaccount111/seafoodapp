@@ -42,7 +42,7 @@ class _MainPageState extends State<MainPage> {
       length: 3, 
       child: Scaffold(
         appBar: AppBar(
-          title: Text('welcome to Healthy Seafood'),
+          title: Text('welcome to the Healthy Seafood'),
           bottom: TabBar(
             tabs: [
               Tab(text: 'Home'),
